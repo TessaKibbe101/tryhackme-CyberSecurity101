@@ -12,6 +12,6 @@
 ✔️ Active Directory Basics
 
 ### Command Line
-Windows Command Line
-Windows Powershell
-Linux Shells
+Windows Command Line  
+Windows Powershell  
+Linux Shells  
