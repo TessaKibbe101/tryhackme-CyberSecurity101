@@ -16,7 +16,7 @@
 ✔️ Windows PowerShell  
 ✔️ Linux Shells  
 
-## Networking  
+### Networking  
 Networking Concepts  
 Networking Essentials  
 Networking core Protocols  
