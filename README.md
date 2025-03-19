@@ -9,15 +9,14 @@
 ✔️ Windows Fundamentals Part 1  
 ✔️ Windows Fundamentals Part 2  
 ✔️ Windows Fundamentals Part 3  
-✔️ Active Directory Basics
+✔️ Active Directory Basics  
 
-### Command Line ✅ 
+### Command Line ✅  
 ✔️ Windows Command Line  
 ✔️ Windows PowerShell  
 ✔️ Linux Shells  
 
-## Networking 
-
+## Networking  
 Networking Concepts  
 Networking Essentials  
 Networking core Protocols  
