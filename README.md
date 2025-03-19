@@ -16,11 +16,11 @@
 ✔️ Windows PowerShell  
 ✔️ Linux Shells  
 
-## Networking 
-Networking Concepts 
-Networking Essentials 
-Networking core Protocols 
-Networking Secure Protocols 
-Wireshark: The basics 
-Tcpdump: The basics 
-Nmap: The basics 
+## Networking  
+Networking Concepts  
+Networking Essentials  
+Networking core Protocols  
+Networking Secure Protocols  
+Wireshark: The basics  
+Tcpdump: The basics  
+Nmap: The basics  
