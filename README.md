@@ -11,7 +11,16 @@
 ✔️ Windows Fundamentals Part 3  
 ✔️ Active Directory Basics
 
-### Command Line
-Windows Command Line  
-Windows Powershell  
-Linux Shells  
+### Command Line ✅ 
+✔️ Windows Command Line  
+✔️ Windows PowerShell  
+✔️ Linux Shells  
+
+## Networking
+Networking Concepts
+Networking Essentials
+Networking core Protocols
+Networking Secure Protocols
+Wireshark: The basics
+Tcpdump: The basics
+Nmap: The basics
